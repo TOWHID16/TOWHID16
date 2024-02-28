@@ -1,5 +1,5 @@
 
-<img align="left"  height="50" width="110" src="https://github.com/TOWHID16/TOWHID16/blob/main/logo/logo2.png" />
+<img align="left"  height="100" width="210" src="https://github.com/TOWHID16/TOWHID16/blob/main/logo/logo2.png" />
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=TOWHID16.TOWHID16" />
 
 <h1 align="center">
