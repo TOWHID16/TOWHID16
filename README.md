@@ -43,8 +43,10 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,javascript,typescript,nodejs,express,nextjs,python,flask" />
+    <img src="https://skillicons.dev/icons?i=java,c,cpp,mongodb,mysql,postgresql,git,github,vscode,figma" />
+    <br>
+    <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
 </div>
 
 <br/>
