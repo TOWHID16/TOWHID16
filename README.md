@@ -13,15 +13,15 @@
 
 <div align="left">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m passionate about turning complex problems into simple, beautiful code.
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m always learning and currently excited about the potential of WebAssembly.
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+ 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/TOWHID16/TOWHID16/issues)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from<br> Ikea rugs**
+ ⚡ Fun fact: The first computer "bug" was literally a moth stuck in a relay!
 
- </div>
+</div>
  
 <div align="center"> 
   <a href="towhidasif@gmail.com">
