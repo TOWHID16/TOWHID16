@@ -1,8 +1,16 @@
 
+<h1 align="center">
+    <img src="https://github.com/TOWHID16/TOWHID16/blob/main/logo/header.png" />
+</h1>
+
 <img align="left"  height="90" width="160" src="https://github.com/TOWHID16/TOWHID16/blob/main/logo/logo2.png" />
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=TOWHID16.TOWHID16" />
 
-<h1 align="center">
+
+<!-- <h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Towh!d+As!f😊;" />
+</h1>  -->
+ <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Towh!d+As!f😊;" />
 </h1>
 
