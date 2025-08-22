@@ -108,9 +108,14 @@
 <br/>
 
 <div align="center">
-<a href="https://www.linkedin.com/in/towhidur-rahman-asif" target="_blank">
-  <img src="https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+    <p align='center'>
+<img align='center' src= "https://media.tenor.com/ivIQbWI5qe8AAAAi/spider-man-no-way-home-marvel-studios.gif" width="250px"  >
+</p>
+    <p>
+  <a href="https://www.linkedin.com/in/towhidur-rahman-asif" target="_blank">
+    <img src="https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="50" />
+  </a>
+</p>
 </a>
 </a>
 </div>
